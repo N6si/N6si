@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Computer Engineering student interested in data analytics, Python, and problem-solving. 
+Building projects in machine learning, automation, and backend systems.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n6si&label=Profile%20views&color=0e75b6&style=flat" alt="n6si" /> </p>
 
